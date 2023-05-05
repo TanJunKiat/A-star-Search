@@ -1,4 +1,4 @@
-# A-star-Search
+# A* Search Algorithm
 
 
 ## Description
