@@ -1,6 +1,9 @@
 # A-star-Search
 
-<img src="https://github.com/TanJunKiat/dyna-omniwheel/blob/main/images/isoview.jpeg" width=50% height=50%>
+<img src="https://github.com/TanJunKiat/A-star-Search/blob/main/images/map_1.jpeg" width=50% height=50%>
+<img src="https://github.com/TanJunKiat/A-star-Search/blob/main/images/map_2.jpeg" width=50% height=50%>
+<img src="https://github.com/TanJunKiat/A-star-Search/blob/main/images/map_3.jpeg" width=50% height=50%>
+<img src="https://github.com/TanJunKiat/A-star-Search/blob/main/images/map_4.jpeg" width=50% height=50%>
 
 ## Description
 
