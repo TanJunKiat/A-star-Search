@@ -24,9 +24,12 @@
 ## Upcoming features / improvements
 - Maintaining a certain distance from the wall
 
-## Appendix
+## Appendix 
 
 ### Pseudo code explanation
+
+## References
+1. https://en.wikipedia.org/wiki/A*_search_algorithm
 
 ## Contact
 Tan Jun Kiat (tanjunkiat@outlook.sg)
