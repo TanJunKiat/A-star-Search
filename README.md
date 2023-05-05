@@ -29,7 +29,7 @@
 ### Pseudo code explanation
 
 ## References
-1. (WIKI)[https://en.wikipedia.org/wiki/A*_search_algorithm]
+1. [Wikipedia](https://en.wikipedia.org/wiki/A*_search_algorithm)
 
 ## Contact
 Tan Jun Kiat (tanjunkiat@outlook.sg)
