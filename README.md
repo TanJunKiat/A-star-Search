@@ -22,6 +22,7 @@
 ## Troubleshooting
 
 ## Upcoming features / improvements
+- Maintaining a certain distance from the wall
 
 ## Appendix
 
