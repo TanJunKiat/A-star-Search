@@ -13,13 +13,21 @@ To implement A*, we start by initializing the starting node and the goal node. W
 When we reach the goal node, we have found the shortest path. A* then returns the path from the starting node to the goal node by backtracking from the goal node through its parent nodes until we reach the starting node.
 
 ## Software pre-requisite
-- MATLAB or Python
+- MATLAB
+- Python 3
 
 ## Operation
 ### MATLAB
 - Download the files inside the MATLAB folder
 - Run "main.m"
 - Load different map to show the effectiveness of the algorithm
+
+### Python
+- Ubuntu
+```
+python3 main.py
+```
+
 
 ## Results
 ### MATLAB
